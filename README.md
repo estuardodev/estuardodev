@@ -2,6 +2,7 @@
 👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Software Developer en Python y Web Developer en HTML, CSS y JS. 🤓
 Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.blogspot.com/" target="_blank">BLOG</a> donde publico mis proyectos y futuros proyectos. 😌
 - 😄 Actualmente tengo 18 años
+- 😊 Estoy cursando 5to. Bachillerato
 - 🇬🇹 Soy de nacionalidad Guatemalteca
 - 📃 Tengo un nivel de ingles A1
 - 🌱 Actualmente estoy aprendiendo Go
