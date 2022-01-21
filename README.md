@@ -16,6 +16,13 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - <a href="https://platzi.com/p/estuardodev/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank">Curso de Oratoria para Hablar en Público</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
 
+
+<h2>ℹ️ &nbsp;Información de GitHub</h2>
+	
+  <summary><b>🔎 Detalles del perfil de Github</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estuardodev&theme=github_dark" alt="estuardodev" align = "center"/></p>
+
+
 ### Redes Sociales
 - 👨‍💼 <a href="https://www.linkedin.com/in/estuardodev/" target="_blank">Linkedin</a>
 - 🐦 <a href="https://twitter.com/estuardodev" target="_blank">Twitter</a>
