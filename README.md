@@ -1,6 +1,8 @@
 ### Bienvenido a mi perfil
 👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Software Developer en Python y Web Developer en HTML, CSS y JS. 🤓
 Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.github.io/" target="_blank" title="PÁGINA EN REMODELACIÓN">BLOG</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
+
+
 - 😄 Actualmente tengo 18 años
 - 😊 Estoy cursando 5to. Bachillerato.
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
@@ -29,4 +31,4 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - 🐦 <a href="https://twitter.com/estuardodev" target="_blank">Twitter</a>
 - 📷 <a href="https://www.instagram.com/estuardodev" target="_blank">Instagram</a>
 - 👨‍💻 <a href="https://www.reddit.com/user/estuardodev" target="_blank">Reddit</a>
-- 🌎 <a href="https://estuardodev.blogspot.com/" target="_blank">Blog</a>
+- 🌎 <a href="https://estuardodev.github.io" title="PÁGINA EN REMODELACIÓN" target="_blank">Blog</a>
