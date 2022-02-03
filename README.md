@@ -4,7 +4,7 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 
 
 - 😄 Actualmente tengo 18 años
-- 😊 Estoy cursando 5to. Bachillerato.
+- 😊 Estoy cursando 5to. Bachillerato en computación.
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de ingles A1.
 - 🌱 Actualmente estoy aprendiendo Go.
