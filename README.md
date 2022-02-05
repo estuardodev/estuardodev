@@ -11,6 +11,9 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - 👯 Estoy buscando colaborar en algun proyecto.
 - 💬 Me gusta hablar sobre muchos temas como Política, Economía, Programación.
 
+### Plataformas de Proyectos
+- <a href="https://play.google.com/store/apps/dev?id=5036894088501212829" target="_blank">Google Play</a>
+
 ### Estudios Recientes
 - Actualmente curso el grado de 5to Bachillerato
 - <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub</a>
