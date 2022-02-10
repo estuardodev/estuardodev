@@ -12,7 +12,8 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - 💬 Me gusta hablar sobre muchos temas como Política, Economía, Programación.
 
 ### Plataformas de Proyectos
-- <a href="https://play.google.com/store/apps/dev?id=5036894088501212829" target="_blank">Google Play</a>
+[![Google Play](https://i.imgur.com/mbD9R7Y.png)](https://play.google.com/store/apps/dev?id=5036894088501212829)
+
 
 ### Estudios Recientes
 - Actualmente curso el grado de 5to Bachillerato
