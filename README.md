@@ -24,7 +24,7 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
 
 
-<h2>ℹ️ &nbsp;Información de GitHub</h2>
+<h2>&nbsp;Información de GitHub</h2>
 	
   <summary><b>🔎 Detalles del perfil de Github</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estuardodev&theme=github_dark" alt="estuardodev" align = "center"/></p>
