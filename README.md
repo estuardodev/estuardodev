@@ -13,6 +13,7 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 
 ### Plataformas de Proyectos
 [![Google Play](https://i.imgur.com/mbD9R7Y.png)](https://play.google.com/store/apps/dev?id=5036894088501212829)
+[![Criptomoneda](https://imgur.com/a/GrInCh0)](https://bscscan.com/token/0x1956fbc18f22D0d9633024b08d4032e784032a5C)
 
 
 ### Estudios Recientes
