@@ -18,6 +18,8 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 
 ### Estudios Recientes
 - Actualmente curso el grado de 5to Bachillerato
+- <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python</a>
+- <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub</a>
 - <a href="https://platzi.com/p/estuardodev/curso/2218-pensamiento-logico/diploma/detalle/" target="_blank">Curso Básico de Algoritmos y Pensamiento Lógico</a>
 - <a href="https://platzi.com/p/estuardodev/curso/2292-course/diploma/detalle/" target="_blank">Curso de Introducción a la Terminal y Línea de Comandos</a>
