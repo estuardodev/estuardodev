@@ -38,4 +38,4 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - 🐦 <a href="https://twitter.com/estuardodev" title="Mi Twitter" target="_blank">Twitter</a>
 - 📷 <a href="https://www.instagram.com/estuardodev" title="Mi Instagram" target="_blank">Instagram</a>
 - 👨‍💻 <a href="https://www.reddit.com/user/estuardodev" title="Mi Reddit" target="_blank">Reddit</a>
-- 🌎 <a href="https://estuardodev.github.io" title="PÁGINA EN REMODELACIÓN" target="_blank">Blog</a>
+- 🌎 <a href="https://estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Blog</a>
