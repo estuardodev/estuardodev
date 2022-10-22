@@ -1,11 +1,9 @@
 ### Bienvenido a mi perfil
-👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Software Developer en Python y Web Developer en HTML, CSS y JS. 🤓
-Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">BLOG</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
+👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python y Web Developer en HTML, CSS y JS. 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">BLOG</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
 
 
 - 😄 Actualmente tengo 18 años
-- 🌱 Estoy enfocandome en el backend con Python
-- 😊 Estoy cursando 5to. Bachillerato en computación.
+- 🌱 Estoy mejorando mis habilidades como Backend Developer
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de ingles A1.
 - 👯 Estoy buscando colaborar en algun proyecto.
@@ -13,7 +11,6 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 
 ### Plataformas de Proyectos
 [![Google Play](https://i.imgur.com/mbD9R7Y.png)](https://play.google.com/store/apps/dev?id=5036894088501212829)
-[![Criptomoneda](https://i.imgur.com/EX033pi.png)](https://bscscan.com/token/0x1956fbc18f22D0d9633024b08d4032e784032a5C)
 
 
 ### Estudios Recientes
@@ -37,5 +34,4 @@ Actualmente soy estudiante de 5to. Bachillerato. 😄 Estoy trabajando en proyec
 - 👨‍💼 <a href="https://www.linkedin.com/in/estuardodev/" title="Mi Linkedin" target="_blank">Linkedin</a>
 - 🐦 <a href="https://twitter.com/estuardodev" title="Mi Twitter" target="_blank">Twitter</a>
 - 📷 <a href="https://www.instagram.com/estuardodev" title="Mi Instagram" target="_blank">Instagram</a>
-- 👨‍💻 <a href="https://www.reddit.com/user/estuardodev" title="Mi Reddit" target="_blank">Reddit</a>
 - 🌎 <a href="https://estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Blog</a>
