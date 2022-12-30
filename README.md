@@ -2,7 +2,6 @@
 👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python y Web Developer en HTML, CSS y JS. 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">BLOG</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
 
 
-- 😄 Actualmente tengo 19 años
 - 🌱 Estoy mejorando mis habilidades como Backend Developer
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de ingles A1.
