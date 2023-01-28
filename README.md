@@ -1,10 +1,11 @@
 ### Bienvenido a mi perfil
-👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python y Web Developer en HTML, CSS y JS. 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">BLOG</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
+👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">Portafolio</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
 
 
-- 🌱 Estoy mejorando mis habilidades como Backend Developer
+- 🤗 Soy programador Backend con Django 
+- 🌱 Estoy mejorando mis habilidades como desarrollador Frondend
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
-- 📃 Tengo un nivel de ingles A1.
+- 📃 Tengo un nivel de inglés A1.
 - 👯 Estoy buscando colaborar en algun proyecto.
 - 💬 Me gusta hablar sobre muchos temas como Política, Economía, Programación.
 
@@ -13,7 +14,7 @@
 
 
 ### Estudios Recientes
-- Actualmente curso el grado de 5to Bachillerato
+- Actualmente curso el primer semestre de Ingenieria de Sistemas
 - <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub</a>
@@ -23,8 +24,8 @@
 - <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
 
 ### Redes Sociales
-- 👨‍💼 <a href="https://www.linkedin.com/in/estuardodev/" title="Mi Linkedin" target="_blank">Linkedin</a>
-- 🐦 <a href="https://twitter.com/estuardodev" title="Mi Twitter" target="_blank">Twitter</a>
-- 📷 <a href="https://www.instagram.com/estuardodev" title="Mi Instagram" target="_blank">Instagram</a>
-- 🌎 <a href="https://estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Portafolio</a>
-- 🌎 <a href="https://blog.estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Blog</a>
+- 👨‍💼 <a href="https://www.linkedin.com/in/estuardodev/" title="Mí Linkedin" target="_blank">Linkedin</a>
+- 🐦 <a href="https://twitter.com/estuardodev" title="Mí Twitter" target="_blank">Twitter</a>
+- 📷 <a href="https://www.instagram.com/estuardodev" title="Mí Instagram" target="_blank">Instagram</a>
+- 🌎 <a href="https://estuardodev.com" title="Portafolio personal" target="_blank">Portafolio</a>
+- 📜 <a href="https://blog.estuardodev.com" title="Blog - BlogDev" target="_blank">Blog</a>
