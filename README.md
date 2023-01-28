@@ -22,15 +22,9 @@
 - <a href="https://platzi.com/p/estuardodev/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank">Curso de Oratoria para Hablar en Público</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
 
-
-<h2>&nbsp;Información de GitHub</h2>
-	
-  <summary><b>🔎 Detalles del perfil de Github</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estuardodev&theme=github_dark" alt="estuardodev" align = "center"/></p>
-
-
 ### Redes Sociales
 - 👨‍💼 <a href="https://www.linkedin.com/in/estuardodev/" title="Mi Linkedin" target="_blank">Linkedin</a>
 - 🐦 <a href="https://twitter.com/estuardodev" title="Mi Twitter" target="_blank">Twitter</a>
 - 📷 <a href="https://www.instagram.com/estuardodev" title="Mi Instagram" target="_blank">Instagram</a>
-- 🌎 <a href="https://estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Blog</a>
+- 🌎 <a href="https://estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Portafolio</a>
+- 🌎 <a href="https://blog.estuardodev.com" title="REMODELACIÓN TERMINADA" target="_blank">Blog</a>
