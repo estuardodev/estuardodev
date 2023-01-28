@@ -1,5 +1,5 @@
 ### Bienvenido a mi perfil
-👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="REMODELACIÓN TERMINADA">Portafolio</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
+👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mi, soy un Desarrollador Backend con Python 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardodev.com" target="_blank" title="Portafolio Personal">Portafolio</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
 
 
 - 🤗 Soy programador Backend con Django 
