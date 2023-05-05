@@ -5,6 +5,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/estuardodev/estuardodev?label=Total%20commits)
 [![GitHub stats](https://img.shields.io/github/followers/estuardodev?label=Followers&style=social)](https://github.com/estuardodev)
 
 </div>
