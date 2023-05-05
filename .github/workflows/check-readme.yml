@@ -3,7 +3,7 @@ name: Check README
 on:
   push:
     branches:
-      - master # rama principal
+      - main # rama principal
 
 jobs:
   verificar-readme:
