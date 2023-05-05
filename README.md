@@ -9,7 +9,7 @@
 
 </div>
 
-- 🤗 Soy programador Backend con Django
+- 🤗 Soy programador Backend con Django.
 - 🌱 Estoy mejorando mis habilidades como desarrollador Frondend.
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de inglés A1.
@@ -27,14 +27,14 @@
 
 ## Estudios Recientes
 
-- Actualmente curso el primer semestre de Ingeniería de Sistemas
-- <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python</a>
-- <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos</a>
-- <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub</a>
-- <a href="https://platzi.com/p/estuardodev/curso/2218-pensamiento-logico/diploma/detalle/" target="_blank">Curso Básico de Algoritmos y Pensamiento Lógico</a>
-- <a href="https://platzi.com/p/estuardodev/curso/2292-course/diploma/detalle/" target="_blank">Curso de Introducción a la Terminal y Línea de Comandos</a>
-- <a href="https://platzi.com/p/estuardodev/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank">Curso de Oratoria para Hablar en Público</a>
-- <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
+- Actualmente curso el primer semestre de Ingeniería de Sistemas.
+- <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/2218-pensamiento-logico/diploma/detalle/" target="_blank">Curso Básico de Algoritmos y Pensamiento Lógico.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/2292-course/diploma/detalle/" target="_blank">Curso de Introducción a la Terminal y Línea de Comandos.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank">Curso de Oratoria para Hablar en Público.</a>
+- <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal.</a>
 
 ## Mí GitHub
 
