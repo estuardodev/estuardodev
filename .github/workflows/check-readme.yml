@@ -6,7 +6,7 @@ on:
       - main # rama principal
 
 jobs:
-  verificar-readme:
+  check-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
