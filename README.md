@@ -36,9 +36,15 @@
 - <a href="https://platzi.com/p/estuardodev/curso/1285-hablar-en-publico/diploma/detalle/" target="_blank">Curso de Oratoria para Hablar en Público</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1220-marca-personal/diploma/detalle/" target="_blank">Curso de Marca Personal</a>
 
-## Información sobre mí
+## Mí GitHub
 
-[![estuardodev](https://github-readme-stats.vercel.app/api/top-langs/?username=estuardodev&layout=compact)](https://github.com/estuardodev)
+<div align="center">
+
+[![estuardodev](https://github-readme-stats.vercel.app/api/top-langs/?username=estuardodev&layout=default&card_width=490)](https://github.com/estuardodev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=estuardodev&theme=highcontrast)](https://git.io/streak-stats)
+
+</div>
 
 ## Redes Sociales
 
