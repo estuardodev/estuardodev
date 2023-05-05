@@ -15,7 +15,7 @@
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de inglés A1.
 - 👯 Estoy buscando colaborar en algun proyecto.
-- 💬 Me gusta hablar sobre muchos temas como Política, Economía, Programación.
+- 💬 Me gusta hablar sobre muchos temas como Política, Economía, Programación y más.
 
 ## Plataformas de Proyectos
 
@@ -28,7 +28,7 @@
 
 ## Estudios Recientes
 
-- Actualmente curso el primer semestre de Ingenieria de Sistemas
+- Actualmente curso el primer semestre de Ingeniería de Sistemas
 - <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub</a>
