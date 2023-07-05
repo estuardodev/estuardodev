@@ -6,6 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stats](https://img.shields.io/github/followers/estuardodev?label=Followers&style=social)](https://github.com/estuardodev)
+![GitHub views](https://komarev.com/ghpvc/?username=estuardodev&color=green)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 ## Estudios Recientes
 
-- Actualmente curso el primer semestre de Ingeniería de Sistemas.
+- Actualmente curso el segundo semestre de Ingeniería de Sistemas.
 - <a href="https://platzi.com/p/estuardodev/curso/2397-python-profesional/diploma/detalle/" target="_blank">Curso Profesional de Python.</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1474-oop/diploma/detalle/" target="_blank">Curso de Programación Orientada a Objetos.</a>
 - <a href="https://platzi.com/p/estuardodev/curso/1557-git-github/diploma/detalle/" target="_blank">Curso Profesional de Git y GitHub.</a>
@@ -39,8 +40,6 @@
 ## Mí GitHub
 
 <div align="center">
-
-[![estuardodev](https://github-readme-stats.vercel.app/api/top-langs/?username=estuardodev&layout=default&card_width=490)](https://github.com/estuardodev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=estuardodev&theme=highcontrast)](https://git.io/streak-stats)
 
