@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil
 
-👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mí, soy un Desarrollador Backend con Python 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardo.dev" target="_blank" title="Portafolio Personal">Portafolio</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
+👋 Hola, soy Estuardo Ramírez, un gusto tenerte acá.😁 Te contare un poco sobre mí, soy un Desarrollador Backend con C# y Python utilizando las tecnologías de ASP y Django 🤓 Estoy trabajando en proyectos propios los cuales puedes verlo en mi <a href="https://estuardo.dev" target="_blank" title="Portafolio Personal">Portafolio</a> donde publico mis proyectos, futuros proyectos y recursos para la comunidad. 😌
 
 <div align="center">
 
@@ -10,7 +10,8 @@
 
 </div>
 
-- 🤗 Soy programador Backend con Django.
+- 😊 Desarrollador Backend con ASP.NET
+- 🤗 Desarrollador Backend con Django.
 - 🌱 Estoy mejorando mis habilidades como desarrollador Frondend.
 - 🇬🇹 Soy de nacionalidad Guatemalteca.
 - 📃 Tengo un nivel de inglés A1.
